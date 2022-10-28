@@ -28,5 +28,8 @@
   "homepage": "https://github.com/chartbrew/chartbrew",
   "devDependencies": {
     "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
